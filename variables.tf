@@ -1,0 +1,6 @@
+locals {
+    directories = [
+        "/tmp",
+        "/etc"
+    ]
+}
